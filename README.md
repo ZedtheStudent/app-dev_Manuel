@@ -1,5 +1,4 @@
-# app-dev_Manuel
-My first repository
+
 # app-dev_Manuel
 
 My first repository.
